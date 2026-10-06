@@ -61,12 +61,6 @@
   <img height="160" src="https://streak-stats.demolab.com?user=Soodok&hide_border=true&background=0B0F19&ring=10B981&fire=10B981&currStreakNum=E2E8F0&currStreakLabel=34D399&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B&card_width=430" alt="Streak Stats" />
 </div>
 
-## 📝 写作
-
-技术探索、项目复盘和一些零碎想法，都写在博客里：**[soodok.online](https://soodok.online)**
-
-18 篇文章，包括《逆向一台电子学生证》上下篇、把 AI Agent 塞进 Android 的完整始末、快应用开发记录、以及一堆踩坑笔记。
-
 <div align="center">
   <br>
   <sub>© 2026 Soodok · <a href="https://soodok.online">soodok.online</a> · Keep building 🐾</sub>
