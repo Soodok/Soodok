@@ -35,7 +35,7 @@
 | **[dsh-asr-service](https://github.com/Soodok/dsh-asr-service)** | Android 系统级离线语音识别服务：装一次，任意应用即可获得离线 ASR |
 | **[MeshChat](https://github.com/Soodok/MeshChat)** | 无网环境下的近场安全通信：BLE Mesh + Wi-Fi Direct 双链路，端到端加密 |
 | **[xiaomi-band9-mcp](https://github.com/Soodok/xiaomi-band9-mcp)** | 让 AI 直连小米手环 9：蓝牙安装 / 卸载快应用、查电量（vela-v5 协议逆向） |
-| **[万诗阁](https://github.com/Soodok/astrobox-resource-online-soodok-wanshige)** | 1 万首诗词的离线全文搜索快应用 |
+| **[万诗阁](https://github.com/Soodok/astrobox-resource-online-soodok-wanshige)** | 约 1 万首诗词的离线全文搜索快应用 |
 
 ## 🛠 技术栈
 
@@ -65,7 +65,7 @@
 
 技术探索、项目复盘和一些零碎想法，都写在博客里：**[soodok.online](https://soodok.online)**
 
-18+ 篇文章，包括《逆向一台电子学生证》上下篇、把 AI Agent 塞进 Android 的完整始末、快应用开发记录、以及一堆踩坑笔记。
+18 篇文章，包括《逆向一台电子学生证》上下篇、把 AI Agent 塞进 Android 的完整始末、快应用开发记录、以及一堆踩坑笔记。
 
 <div align="center">
   <br>
