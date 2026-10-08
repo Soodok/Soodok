@@ -56,7 +56,7 @@
 | 项目 | 简介 |
 | :-- | :-- |
 | **[Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android)** <br> ![Stars](https://img.shields.io/github/stars/Soodok/Deepseek-Harness-Local-Android?style=flat-square&color=10B981&label=Stars) ![Forks](https://img.shields.io/github/forks/Soodok/Deepseek-Harness-Local-Android?style=flat-square&color=7C5CFF&label=Forks) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | 在 Android 上原生运行 DeepSeek Harness AI Agent —— 免 Root、免 Termux，自带扩展中心。**首发上线两周后起飞：一周暴涨 130+ Star，单日最高 +47** |
-| **[dsh-asr-service](https://github.com/Soodok/dsh-asr-service)** <br> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | Android 系统级离线语音识别服务：装一次，任意应用即可获得离线 ASR |
+| **[dsh-asr-service](https://github.com/Soodok/dsh-asr-service)** <br> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | 为系统**创造**一个离线语音识别服务：注册为系统 RecognitionService，任意应用可直接调用——专门解决国内 ROM 阉割识别服务导致语音输入不可用的问题 |
 | **[MeshChat](https://github.com/Soodok/MeshChat)** <br> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | 无网环境下的近场安全通信：BLE Mesh + Wi-Fi Direct 双链路，端到端加密 |
 | **[xiaomi-band9-mcp](https://github.com/Soodok/xiaomi-band9-mcp)** <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 让 AI 直连小米手环 9：蓝牙安装 / 卸载快应用、查电量（vela-v5 协议完整逆向） |
 | **[万诗阁](https://github.com/Soodok/astrobox-resource-online-soodok-wanshige)** <br> ![Vela](https://img.shields.io/badge/%E5%BF%AB%E5%BA%94%E7%94%A8-FF6900?style=flat-square) | 约 1 万首诗词的离线全文搜索快应用 |
